@@ -1,7 +1,7 @@
 # Text Similarity and Plagiarism Checker
 
 A high-performance web-based tool designed to evaluate document similarity and detect plagiarism. The system processes textual content to extract matching patterns and compute an exact similarity percentage using algorithmic optimization.
-
+![Application Dashboard](project.png)
 ## Features
 
 * Real-Time Analysis: Computes text similarity metrics within milliseconds.
